@@ -3,7 +3,7 @@ Nesse projeto pude implementar as técnicas e ferramentas abaixo:
 - A importância dos formulários na web e a coleta de dados dos usuários.
 - A estruturar projetos no VS Code e a iniciar repositórios Git.
 - A criar formulários HTML básicos, incluindo validação de dados.
-- A usar tags como <fieldset>, <legend>, <datalist>, e <textarea> para organizar e melhorar a usabilidade de formulários.
+- A usar tags como fieldset, legend, datalist, e textarea para organizar e melhorar a usabilidade de formulários.
 - A implementar tipos de inputs como checkbox, radio, e listas suspensas para diferentes necessidades de seleção.
 - A realizar operações de merge e gerenciar branches no GitHub para desenvolver funcionalidades específicas.
 - A revisar e aprovar pull requests, garantindo a qualidade do código através de feedback.
@@ -13,7 +13,7 @@ Nesse projeto pude implementar as técnicas e ferramentas abaixo:
 - As diretrizes WCAG e seus pilares para criar sites acessíveis.
 - Os níveis de acessibilidade (A, AA, AAA) e a importância de atingir ao menos o nível AA.
 - Técnicas para tornar conteúdo acessível a diferentes tipos de deficiência.
-- O uso de atributos ARIA para melhorar a semântica e acessibilidade de elementos HTML.
+- O uso de atributos ARIA para melhorar a semântica e acessibilidade de elementos HTML, principalmente com os atributos aria-label, aria-labelledby, aria-describedby.
 - A aplicação do Google Lighthouse e do WAVE para avaliar e melhorar a acessibilidade de sites.
 - Como implementar melhores práticas de acessibilidade em formulários HTML
 - O uso do Git para integrar melhorias contínuas de acessibilidade.
