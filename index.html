@@ -13,7 +13,7 @@
     <section>
       <form action="" method="get">
         <!-- dados pessoais -->
-        <!-- <fieldset>
+        <fieldset>
           <legend>Dados Pessoais</legend>
           <label for="userName">Nome</label>
           <input type="text" name="userName" required />
@@ -38,17 +38,17 @@
           <label for="userImage">Upload de foto</label>
           <input type="file" accept="image/*" name="userImage" />
           <br />
-        </fieldset> -->
+        </fieldset> 
 
         <!-- perfil -->
         <fieldset>
           <legend>Perfil</legend>
 
           <p>Gênero:</p>
-          <input type="radio" name="userGender" value="Feminino" />
+          <input type="radio" name="userGender" value="feminino" />
           <label for="userGender">Feminino</label>
 
-          <input type="radio" name="userGender" value="Masculino" />
+          <input type="radio" name="userGender" value="masculino" />
           <label for="userGender">Masculino</label>
 
           <input type="radio" name="userGender" value="notInformed" />
@@ -98,11 +98,24 @@
 
           <label for="userCity">Cidade:</label>
           <input type="text" id="userCity" name="userCity" autocomplete="address-level2" placeholder="Ex.: Fortaleza" />
-        </fieldset>
+        </fieldset> 
 
         <!-- hábitos -->
         <fieldset>
             <legend>Hábitos</legend>
+            <p>Redes Sociais:</p>
+            <input type="checkbox" name="social" value="instagram">
+            <label for="social">Instagram</label>
+            <br>
+            <input type="checkbox" name="social" value="facebook">
+            <label for="social">Facebook</label>
+            <br>
+            <input type="checkbox" name="social" value="linkedin">
+            <label for="social">LinkedIn</label>
+            <br>
+            <input type="checkbox" name="social" value="x">
+            <label for="social">X</label>
+            <br>
         </fieldset>
 
         <button type="submit">Enviar</button>
