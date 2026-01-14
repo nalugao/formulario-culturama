@@ -4,8 +4,19 @@
   box-sizing: border-box;
 }
 
+:root {
+  --cor-texto: #333333;
+  --cor-fundo: #f9f9f9;
+}
+
+.theme-high-contrast {
+  --cor-texto: #000000;
+  --cor-fundo: #f9f9f9;
+} 
+
 body {
-  background-color: #f9f9f9;
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
   font-family: "Work Sans", sans-serif;
 }
 
