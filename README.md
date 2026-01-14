@@ -1,0 +1,27 @@
+Nesse projeto pude implementar as técnicas e ferramentas abaixo:
+
+- A importância dos formulários na web e a coleta de dados dos usuários.
+- A estruturar projetos no VS Code e a iniciar repositórios Git.
+- A criar formulários HTML básicos, incluindo validação de dados.
+- A usar tags como <fieldset>, <legend>, <datalist>, e <textarea> para organizar e melhorar a usabilidade de formulários.
+- A implementar tipos de inputs como checkbox, radio, e listas suspensas para diferentes necessidades de seleção.
+- A realizar operações de merge e gerenciar branches no GitHub para desenvolver funcionalidades específicas.
+- A revisar e aprovar pull requests, garantindo a qualidade do código através de feedback.
+- A incorporar e configurar assets e fontes personalizadas para melhorar a apresentação visual de um site.
+- Estilizar e melhorar a usabilidade de um formulário com CSS.
+- A importância da acessibilidade digital para garantir o acesso inclusivo a todos os usuários.
+- As diretrizes WCAG e seus pilares para criar sites acessíveis.
+- Os níveis de acessibilidade (A, AA, AAA) e a importância de atingir ao menos o nível AA.
+- Técnicas para tornar conteúdo acessível a diferentes tipos de deficiência.
+- O uso de atributos ARIA para melhorar a semântica e acessibilidade de elementos HTML.
+- A aplicação do Google Lighthouse e do WAVE para avaliar e melhorar a acessibilidade de sites.
+- Como implementar melhores práticas de acessibilidade em formulários HTML
+- O uso do Git para integrar melhorias contínuas de acessibilidade.
+- A exploração do conceito de SEO e a divisão entre SEO técnico e de conteúdo.
+- Os quatro pilares do SEO técnico: semântica, performance, mobile first e acessibilidade.
+- O uso de ferramentas como Google Lighthouse e Google Search Console para análise e acompanhamento de SEO.
+- A implementação de boas práticas de HTML para otimização de SEO e experiência do usuário.
+- A configuração de metatags OG para otimização de compartilhamento social.
+- A importância de usar URLs absolutas em metatags OG e testar as configurações com ferramentas específicas.
+- O ajuste de texto alternativo e títulos em links para otimizar SEO e acessibilidade.
+- O gerenciamento de mudanças de SEO por meio de branches no Git.
