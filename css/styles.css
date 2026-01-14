@@ -97,6 +97,15 @@ input[type="number"]:valid {
 input:invalid, select:invalid, textarea:invalid
 sem especificar oq ue é requerido ou não.*/
 
+input[type="tel"]{
+    margin: 0;
+}
+
+small{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 button {
   width: 100px;
   height: 30px;
