@@ -97,7 +97,7 @@ input[type="number"]:valid {
 input:invalid, select:invalid, textarea:invalid
 sem especificar oq ue é requerido ou não.*/
 
-input[type="tel"]{
+input[type="tel"], input[type="file"]{
     margin: 0;
 }
 
