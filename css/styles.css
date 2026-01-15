@@ -31,8 +31,14 @@ header {
   margin-bottom: 20px;
 }
 
-header img {
+.logoCulturama {
   width: 100px;
+}
+
+.logoGithub {
+  width: 30px;
+  display: block;
+  margin-top: 10px;
 }
 
 h1 {
